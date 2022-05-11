@@ -11,7 +11,7 @@ This project was designed to utilize location data to find actionable insights f
 
 **Data**
 
-The main dataset is the MTA subway traffic data over 3 months in the summer of 2019 which was used to find the subway stops that saw the most traffic in non-covid times. This was used in combination with the geolocations of the subway stops and the geolocations of Starbucks stores. There are about 400 subway stops and 200 Starbucks in the NYC area.
+The main dataset is the MTA subway traffic data over 3 months in the summer of 2019 which was used to find the subway stops that saw the most traffic in non-covid times. This is important because I wanted a large traffic timeframe pre-covid so that Starbucks will be able to make inferences into the future when travel and commuting are regular again. This data was used in combination with the geolocations of the subway stops and the geolocations of Starbucks stores. There are about 400 subway stops and 200 Starbucks in the NYC area.
 
 **Models**
 
