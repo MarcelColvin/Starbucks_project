@@ -15,7 +15,7 @@ The main dataset is the MTA subway traffic data over 3 months in the summer of 2
 
 **Models**
 
-This project was mainly about cleaning data and creating visualizations that would be useful for making insights. I was able to use these visualizations to make conclusions which Starbucks could use to open a new store or improve their targeted advertising.
+This project was mainly about cleaning data and creating visualizations that would be useful for making insights. I was able to use these visualizations to make conclusions which Starbucks could use to open a new store or improve their targeted advertising. The bar plots in the appendix of the slides can also be used to find exact stations that having a new Starbucks next to would generate the most profits.
 
 **Tools**
 
